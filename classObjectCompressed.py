@@ -31,7 +31,7 @@ class ip:
         self.ttl = ttl
         self.proto = proto
         self.chksum = chksum
-        self.src = src
+        self.src = src 
         self.dst = dst
         self.options = options
     
